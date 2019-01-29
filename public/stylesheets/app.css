@@ -1,0 +1,75 @@
+#font {
+
+	font-family: 'Merriweather Sans', sans-serif;
+	color: #3F98E8;
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#bottom_navbar {
+
+	height: 150px;
+}
+
+#icon{
+
+	width: 8px;
+	height: 8px;
+	color: #D0D3D6;  
+	padding-bottom: 29px;
+}
+
+#fb {
+
+	color: #05B5F7;
+}
+#insta {
+
+	color: #EC15AB  ;
+}
+
+#content_index {
+
+	text-align: center;
+	margin-top: 20px;
+
+
+}
+
+#index_slidebar {
+
+	padding-bottom: 40px;
+}
+
+
+.btn {
+
+	width: 48%;
+}
+
+
+#active_home {
+
+	margin: auto 1.5em;
+	font-size:18px;
+
+
+}
+
+#active_about {
+
+	margin: auto 1.5em;
+	font-size:18px
+}
+
+
+
+#active_services {
+
+	margin: auto 1.5em;
+	font-size:18px
+}
+
+
+
